@@ -1,6 +1,7 @@
 # Summary of Hamilton Heights
 
 
+
 **Zipcodes**: 10027, 10031, 10032 
 
 
