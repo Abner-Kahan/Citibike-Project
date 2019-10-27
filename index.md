@@ -8,8 +8,7 @@
 **Census Tracts**: 217.03, 223.01, 225, 227, 229, 231, 233, 235.01, 237
 
 #### Demographics: ####
-
-  Hamilton Heights has 71,232 inhabitants of which 50.6% are
+   * Hamilton Heights has 71,232 inhabitants of which 50.6% are
 Hispanic, 25% are non-Hispanic black and 17% are non-Hispanic white. The
 rest of the population is divided equally between being Asian and
 multiracial. The median household income is $45,737, while 24% of
