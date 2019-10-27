@@ -25,5 +25,5 @@ diverse neighborhood is 35 years old.
 
 **Distance to Empire State Building:** 6.1 miles(walking)
 
-(HC8.geojson)
+![Map With Proposed Stations(HC8.geojson)
 
