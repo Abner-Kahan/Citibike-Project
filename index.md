@@ -24,6 +24,9 @@ diverse neighborhood is 35 years old.
 **Distance to Federal Hall:** 9.1 miles(walking)
 
 **Distance to Empire State Building:** 6.1 miles(walking)
+{::nomarkdown}
 
-<script src="https://embed.github.com/view/geojson/Abner-Kahan/HC-8-Neighborhood-geoJSON-Map-/master/HC8.geojson"></script>
+<!-- HTML CODE-->
+
+<script src="https://embed.github.com/view/geojson/Abner-Kahan/HC-8-Neighborhood-geoJSON-Map-/master/HC8.geojson"> </script>
 
