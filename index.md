@@ -25,5 +25,5 @@ diverse neighborhood is 35 years old.
 
 **Distance to Empire State Building:** 6.1 miles(walking)
 
-![Outline of Hamilton Heights with  proposed CitiBike stations](<script src="https://github.com/Abner-Kahan/HC-8-Neighborhood-geoJSON-Map-/blob/master/HC8.geojson"></script>
+<script src="https://embed.github.com/view/geojson/Abner-Kahan/HC-8-Neighborhood-geoJSON-Map-/master/HC8.geojson"></script>
 
