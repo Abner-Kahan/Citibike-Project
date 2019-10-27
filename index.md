@@ -20,3 +20,8 @@ improving as only two percent of the population under 19 are high school
 dropouts. About half of households are composed of families, while only
 25% of the population over 15 is currently married. The median age of this
 diverse neighborhood is 35 years old.
+
+
+**Distance to Federal Hall:** 9.1 miles(walking)
+
+**Distance to Empire State Building:** 6.1 miles(walking)
