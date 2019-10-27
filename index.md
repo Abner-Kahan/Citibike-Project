@@ -29,6 +29,7 @@ diverse neighborhood is 35 years old.
 
 <!-- HTML CODE-->
 
-<script src="https://embed.github.com/view/geojson/Abner-Kahan/Hamilton-Heights-Citi-Bikes/master/HC8.geojson"></script>
+<strong>HI</strong>
+Bye
 
 {:/}
