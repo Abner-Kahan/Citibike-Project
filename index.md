@@ -1,7 +1,6 @@
 # Summary of Hamilton Heights
 
 
-
 **Zipcodes**: 10027, 10031, 10032 
 
 
@@ -26,4 +25,5 @@ diverse neighborhood is 35 years old.
 
 **Distance to Empire State Building:** 6.1 miles(walking)
 
-![Outline of Hamilton Heights with  proposed CitiBike stations](https://github.com/Abner-Kahan/HC-8-Neighborhood-geoJSON-Map-/blob/master/HC8.geojson)
+![Outline of Hamilton Heights with  proposed CitiBike stations](<script src="https://github.com/Abner-Kahan/HC-8-Neighborhood-geoJSON-Map-/blob/master/HC8.geojson"></script>
+
