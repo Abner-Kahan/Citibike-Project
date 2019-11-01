@@ -25,6 +25,6 @@ diverse neighborhood is 35 years old.
 
 **Distance to Empire State Building:** 6.1 miles(walking)
 
-<script src="https://embed.github.com/view/geojson/abner-kahan/Hamilton-Heights-Citi-Bikes/master/HC8.geojson"</script>
+<script src="https://embed.github.com/view/geojson/abner-kahan/Hamilton-Heights-Citi-Bikes/master/HC8.geojson" ></script>
 
 
